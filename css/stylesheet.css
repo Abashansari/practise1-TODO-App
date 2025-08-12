@@ -1,0 +1,36 @@
+.container {
+    /* padding: 15%; */
+    margin: 5%;
+    width: 30%;
+    height: 200px;
+    border: none;
+    background-color: white;
+    /* border-radius:5% ; */
+}
+
+h2 {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin-left: 10px;
+    border-radius: 20%;
+    border: 2px solid black;
+    width: 50%;
+    height: 20%;
+}
+
+.add {
+    color: white;
+    border-radius: 2px solid black;
+    background-color: blue;
+}
+
+.clear {
+    color: black;
+    border-radius: 2px solid black;
+    background-color: red;
+}
